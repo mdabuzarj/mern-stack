@@ -9,8 +9,16 @@ html,body{
   width: 100%;
 
 }
-.box{
-width: 200px;
-height: 200px;
-background:#333;
+
+button{
+  padding: 10px 30px;
+  margin: 10px;
+}
+h1{
+  background:#343;
+  padding: 30px 80px;
+  margin : 10px;
+  width: fit-content;
+  font-size: 100px;
+  
 }
