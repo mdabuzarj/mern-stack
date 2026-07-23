@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-router",
+=======
+  "name": "reactnew",
+>>>>>>> 9f211d1aeb33834ff04537d40e6a70ce8798598b
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +14,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-router-dom": "^7.18.1"
+=======
+    "@tailwindcss/vite": "^4.3.2",
+    "lucide-react": "^1.23.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "tailwindcss": "^4.3.2"
+>>>>>>> 9f211d1aeb33834ff04537d40e6a70ce8798598b
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

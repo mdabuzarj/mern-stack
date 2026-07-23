@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+=======
+@import "tailwindcss";
+
+
+>>>>>>> 9f211d1aeb33834ff04537d40e6a70ce8798598b
 *{
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
+<<<<<<< HEAD
 }
 body,html{
   background-color: black;
@@ -24,3 +31,14 @@ body,html{
   align-items: center;
   gap: 40px;
 }
+=======
+
+}
+html,body{
+  height: 100%;
+  width: 100%;
+
+}
+
+
+>>>>>>> 9f211d1aeb33834ff04537d40e6a70ce8798598b
